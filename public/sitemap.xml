@@ -4,6 +4,13 @@
     
         
         <url>
+            <loc>http://example.org/projects/</loc>
+            <lastmod>2023-05-07T18:47:43+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://example.org/contact/</loc>
             <lastmod>2023-05-07T14:19:56+05:30</lastmod>
         </url>

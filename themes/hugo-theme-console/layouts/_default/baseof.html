@@ -43,7 +43,7 @@
               {{ range $index, $element := split $url "/" }}{{ $.Scratch.Add "path" $element }}{{ if ne $element "" }}<a href='{{ $.Scratch.Get "path" | absURL }}'>{{ . }}</a>/{{ $.Scratch.Add "path" "/" }}{{ end }}{{ end }}</div></header>
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
-              <li><a href="http://localhost:1313/about/" typeof="ListItem">about/</a></li>
+              <li><a href="http://localhost:1313/projects/" typeof="ListItem">projects/</a></li>
               <li><a href="http://localhost:1313/blogs/" typeof="ListItem">blogs/</a></li>
               <li><a href="http://localhost:1313/ctfs/" typeof="ListItem">CTFs/</a></li>
               <li><a href="http://localhost:1313/certifications/" typeof="ListItem">certifications/</a></li>

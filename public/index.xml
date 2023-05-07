@@ -7,12 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Sun, 07 May 2023 18:47:43 +0530</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://example.org/contact/</link>
       <pubDate>Sun, 07 May 2023 14:19:56 +0530</pubDate>
       
       <guid>http://example.org/contact/</guid>
-      <description></description>
+      <description> Linkedin: linkedin@vasanthavanan Twitter: twitter@vasanth__vanan Instagram: instagram@vasanth_vanan Email: cr34u6rupg@pomail.net </description>
     </item>
     
     <item>
@@ -25,7 +34,7 @@
     </item>
     
     <item>
-      <title>Ctfs</title>
+      <title>Capture the Flags</title>
       <link>http://example.org/ctfs/</link>
       <pubDate>Sun, 07 May 2023 14:19:03 +0530</pubDate>
       
@@ -39,17 +48,22 @@
       <pubDate>Sun, 07 May 2023 14:18:54 +0530</pubDate>
       
       <guid>http://example.org/certifications/</guid>
-      <description></description>
+      <description>
+Image Source: TryHackMe </description>
     </item>
     
     <item>
-      <title>Thoughts &amp; Notions</title>
+      <title>Thoughts &amp; Notions (Medium)</title>
       <link>http://example.org/blogs/</link>
       <pubDate>Sun, 07 May 2023 14:18:47 +0530</pubDate>
       
       <guid>http://example.org/blogs/</guid>
-      <description>As an avid reader and writer on Medium.com, I dedicate my time exploring latest cybersecurity trends, with a focus on penetration testing. You can find some of my blog posts here.
-SS7 — The Deadliest Attack, February 13, 2019</description>
+      <description>As an avid reader and writer on Medium.com, I dedicate ample time exploring latest cybersecurity trends, with a focus on penetration testing. You can find my blog posts on vasanthavanan.medium.com Here are few blogs and their corresponding reach:
+SS7 — The Deadliest Attack, February 13, 2019
+Inspecting — KrØØk Vulnerability, March 26, 2020
+Ignite: TryHackMe Walkthrough, January 1, 2023
+Thoughts &amp; Notions (Instagram)
+&amp;ldquo;Visualisation is more powerful than textual form&amp;rdquo; this quote has been my guiding principle throughout my academic and professional journey.</description>
     </item>
     
     <item>
@@ -58,7 +72,7 @@ SS7 — The Deadliest Attack, February 13, 2019</description>
       <pubDate>Sun, 07 May 2023 13:11:57 +0530</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
   </channel>
