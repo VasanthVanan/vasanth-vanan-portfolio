@@ -32,7 +32,7 @@
 
 :root {
     --global-font-size: 16px;
-    --global-font-color: #bebcbc;
+    --global-font-color: #bebebc;
     --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
@@ -117,7 +117,7 @@ h1 {
 }
 
 .content-column-content .command {
-    color: #aaa;
+    color: rgb(170, 249, 23);
 }
 
 p.social a {
