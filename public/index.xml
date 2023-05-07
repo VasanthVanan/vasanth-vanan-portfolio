@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vasanth-vanan</title>
+    <link>http://example.org/</link>
+    <description>Recent content on vasanth-vanan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sun, 07 May 2023 14:19:56 +0530</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://example.org/resources/</link>
+      <pubDate>Sun, 07 May 2023 14:19:09 +0530</pubDate>
+      
+      <guid>http://example.org/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ctfs</title>
+      <link>http://example.org/ctfs/</link>
+      <pubDate>Sun, 07 May 2023 14:19:03 +0530</pubDate>
+      
+      <guid>http://example.org/ctfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>http://example.org/certifications/</link>
+      <pubDate>Sun, 07 May 2023 14:18:54 +0530</pubDate>
+      
+      <guid>http://example.org/certifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts &amp; Notions</title>
+      <link>http://example.org/blogs/</link>
+      <pubDate>Sun, 07 May 2023 14:18:47 +0530</pubDate>
+      
+      <guid>http://example.org/blogs/</guid>
+      <description>As an avid reader and writer on Medium.com, I dedicate my time exploring latest cybersecurity trends, with a focus on penetration testing. You can find some of my blog posts here.
+SS7 — The Deadliest Attack, February 13, 2019</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 07 May 2023 13:11:57 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
