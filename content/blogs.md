@@ -28,9 +28,9 @@ As an avid reader and writer on <a href="https://medium.com" target="_blank">Med
 
 this quote has been my guiding principle throughout my academic and professional journey. In addition to textual form, I also share visually engaging posts on my <a href="http://instagram.com/vasanth_vanan/" target="_blank">Instagram (@vasanth_vanan)</a> to assist and empower my online community in safeguarding their virtual selves. Check out these posts:
 
-<img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image2.jpg?raw=true"  style="width: 20%;">
-<img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image3.jpg?raw=true"  style="width: 20%;">
-<img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image4.jpg?raw=true"  style="width: 20%;">
-<img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image1.png?raw=true"  style="width: 20%;">
-
+<a href="https://www.instagram.com/p/CWN29LnFzDx/" target="_blank"><img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image2.jpg?raw=true"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CfgUTSGBSoO/" target="_blank"><img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image3.jpg?raw=true"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CmRcFF5BJVe/" target="_blank"><img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image4.jpg?raw=true"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CQWFZJMhxCg/" target="_blank"><img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image1.png?raw=true"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CQ3GiNxLvPf/" target="_blank"><img src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image5.jpg?raw=true"  style="width: 19%;"></a>
 
