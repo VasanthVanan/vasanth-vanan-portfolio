@@ -137,9 +137,7 @@ p.social a {
     transition: all 0.2s ease-out;
 }
 
-.active a {
-    text-decoration: underline;
-}
+
 
 strong {
     font-weight: bold;
