@@ -4,7 +4,9 @@ date: 2023-05-07T14:19:56+05:30
 ---
 
 <br>
+
 Feel free to reach out:
+---
 
 - Linkedin: <a href="https://www.linkedin.com/in/vasanthavanan/" target="_blank">linkedin@vasanthavanan</a> <br><br>
 - Twitter: <a href="http://twitter.com/vasanth__vanan" target="_blank">twitter@vasanth__vanan</a> <br><br>

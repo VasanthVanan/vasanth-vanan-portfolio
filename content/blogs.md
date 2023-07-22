@@ -24,11 +24,11 @@ As an avid reader and writer on <a href="https://medium.com" target="_blank">Med
 this quote has been my guiding principle throughout my academic and professional journey. In addition to textual form, I also share visually engaging posts on my <a href="http://instagram.com/vasanth_vanan/" target="_blank">Instagram.com (@vasanth_vanan)</a> to assist and empower my online community in safeguarding their virtual selves. Check out these posts:
 <br><br>
 
-<a href="https://www.instagram.com/p/CWN29LnFzDx/" id="anchor" target="_blank"><img id="logo" src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image2.jpg?raw=true"  style="width: 19%;"></a>
-<a href="https://www.instagram.com/p/CfgUTSGBSoO/" id="anchor" target="_blank"><img id="logo" src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image3.jpg?raw=true"  style="width: 19%;"></a>
-<a href="https://www.instagram.com/p/CmRcFF5BJVe/" id="anchor" target="_blank"><img id="logo" src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image4.jpg?raw=true"  style="width: 19%;"></a>
-<a href="https://www.instagram.com/p/CQWFZJMhxCg/" id="anchor" target="_blank"><img id="logo" src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image1.png?raw=true"  style="width: 19%;"></a>
-<a href="https://www.instagram.com/p/CQ3GiNxLvPf/" id="anchor" target="_blank"><img id="logo" src="https://github.com/VasanthVanan/vasanth-vanan-portfolio/blob/main/static/image5.jpg?raw=true"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CWN29LnFzDx/" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc9u9I9YjD-kKKwmUNRvXit7fF6d29-jekZtpjyChihhqsCHO7ovVm_ioTW4xgFsZHh0Jt6j-unrMlAlNs0rzmhL1iLl-_3eLQ0gITDcEaCS3CfroOGEkXkyY8noYdyogaZxtPar-z4QBq-D-RGBtw86=w1080-h1080-s-no"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CfgUTSGBSoO/" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc9otvn3RcH9rfZwA3PdhYjEMtiUfB9iTJChJ1rJUkt9tccY6bRBKjBp6QLx0BFfG4f-PABHF__b-nvTuZb45hhhDLw0dpqN1R33o8s1e4-8-sCfh50ihZ51NRZTeS9mej5VpTTm4EXum4LProO5ZcRs=w1080-h1080-s-no"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CmRcFF5BJVe/" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc8USF_JjmHbnyUc_2D15ooHfpGmnpzALVk9ycSfDOUgpnWEqu2nMiqbGF1V4G9aWZBXRb-3A4HWbHM5olLEVBkDZtel20kt1B-vNqmz7_y4ZPkGkXDv6D_ICSbe9in7jraOL5p6gXIKCMF8IsS3bH0p=w1080-h1080-s-no"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CQWFZJMhxCg/" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc8tb4CWj6MzjeocJ7VyRlSP3sKcVYnlz6zGMV0y6AUx5-PlxRboyCRQL_FGzoznyiCpFQo8G7xnVyY0UOeBzWpkHGJVDersYrb0rtn7jv0sd9LJNnc9OxvThRVr32Q9OkvW4PBsWMKRFIvv8aLc4JXk=w1140-h1130-s-no"  style="width: 19%;"></a>
+<a href="https://www.instagram.com/p/CQ3GiNxLvPf/" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc-9FrTs_9DKAEAmppVG6RP7FhZfaz63SSp8b6tiejOKYgVgpf8msOnp2wR91ExqSz_OZnh-VkRtIwdk6PxZ50oDMMH4RrxVZbzBPIQ6BHoe-uAcnyRkuFQ73M5KwvqaYRVQHZhwiZ_VFWRPh22fe6r2=w1080-h1080-s-no"  style="width: 19%;"></a>
 
 <style>
     span{
