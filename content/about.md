@@ -3,7 +3,8 @@ title: "About"
 date: 2023-05-07T13:11:57+05:30
 ---
 
-<img src="">
+<center><img src="https://lh3.googleusercontent.com/pw/AIL4fc9roB195nVJQlTOelIDWWYoqUFz-7MPWv0Kca4voAwPB6vKQu7sO48qu6fu7TJonzSSbFOE5BIEvNoK8ZQNO0RwJzNJ6SXsWQSYPqqAU5ocRR4x7sLg0KUVhG7i3hC81Pb8f-DQvG15cq8vL-dQRbXa=w420-h420-s-no?authuser=1" style="width: 22%;"></center>
+
 
 Meet <a>Vasanth Vanan</a> (@vasanth_vanan), a cybersecurity ethusiast who has transitioned from software development to penetration testing. With a strong foundation of two years in software development and two years of both professional and hands-on experience in penetration testing, Vasanth possesses a blend of technical expertise. 
 

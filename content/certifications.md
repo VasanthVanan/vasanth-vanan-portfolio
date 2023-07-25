@@ -13,11 +13,19 @@ date: 2023-05-07T14:18:54+05:30
 <img src="https://lh3.googleusercontent.com/pw/AIL4fc80ykUGxMrEuu2XIxNU6MRKpfTNxdm2tBoLVdsnjucy5Eciy63ss8BIYUIc_yqltHIEIx44lAKKZwWADsg1nAO5yqDO-4e16zeOYtPLq4TSEzJ7dFAeMia4-LivPvDtNb1RhYNpuCgPlFzgzqxp7o_x=w954-h1034-s-no"  style="width: 18%;">&nbsp;
 
 ---
-CompTIA Network+ (verify: <a>Q85MJ88F734119GZ</a>) <br>
-CompTIA Security+ (verify: <a>QGSWZKZP0DFQ19G3</a>) <br>
-eLearnSecurity Junior Penetration Tester (eJPT) (verify: <a>6119394</a>) <br>
-Certified Ethical Hacker (CEH) (verify: <a>ECC1982743650</a>) <br>
-Offensive Security Certified Professional (OSCP) (for the future..)
+* CompTIA Network+ (verify: <a>Q85MJ88F734119GZ</a>) <br>
+
+* CompTIA Security+ (verify: <a>QGSWZKZP0DFQ19G3</a>) <br>
+
+* eLearnSecurity Junior Penetration Tester (eJPT) (verify: <a>6119394</a>) <br>
+
+* Certified Ethical Hacker (CEH) (verify: <a>ECC1982743650</a>) <br>
+
+* Offensive Security Certified Professional (OSCP) (for the future..)
+
+---
+
+<font size="1">Image Source: TryHackMe</font>
 
 </div>
 
@@ -96,6 +104,3 @@ p {
 
 </style>
 
-<div class="footer">
-    <font size="1">Image Source: TryHackMe</font>
-</div>

@@ -8,10 +8,10 @@ date: 2023-07-23T01:10:35+05:30
 
 #### Software Developer | Jan 2020 - Nov 2021 (~2 Years)
 
-- Full Stack Development with skillsets: Angular, Laravel, Spark, Scala, Git, Python
-- Facilitated to onboard Secret Server for CCA module through cloud
-- Implemented Authentication and Authorisation feature in CUST-RI (Scala service)
-- Contributed to Test Driven Development (TDD) on achieving 80% code coverages
+<i>-</i> Full Stack Development with skillsets: Angular, Laravel, Spark, Scala, Git, Python <br>
+<i>-</i> Facilitated to onboard Secret Server for CCA module through cloud <br>
+<i>-</i> Implemented Authentication and Authorisation feature in CUST-RI (Scala service) <br>
+<i>-</i> Contributed to Test Driven Development (TDD) on achieving 80% code coverages 
 
 **Skillset:** <a>Software Development</a> | <a>Agile Methodologies</a> | <a>Problem Solving</a>
 
@@ -21,9 +21,9 @@ date: 2023-07-23T01:10:35+05:30
 
 #### Security Analyst | Nov 2022 - Jun 2023 (8 Months)
 
-- Produced professional audit reports and documentation with standard templates.
-- Applied penetration testing skills to address vulnerabilities and completed related training modules.
-- Conducted extensive OSINT investigations using various social engineering methodologies.
+<i>-</i> Produced professional audit reports and documentation with standard templates. <br>
+<i>-</i> Applied penetration testing skills to address vulnerabilities and completed related training modules. <br>
+<i>-</i> Conducted extensive OSINT investigations using various social engineering methodologies.
 
 **Skillset:** <a>Penetration Testing</a> | <a>Vulnerability Assessment</a> | <a>Scripting</a> 
 
