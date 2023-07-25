@@ -39,15 +39,17 @@
             <div class="logo terminal-prompt">
               {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
               {{ $.Scratch.Add "path" .Site.BaseURL }}
-              <a href="{{ .Site.BaseURL }}" class="no-style {{ with .Site.Params.TitleCutting }}site-name{{ end }}">{{ .Site.Title }}</a>:~# 
+              <a href="{{ .Site.BaseURL }}" class="no-style {{ with .Site.Params.TitleCutting }}site-name{{ end }}">{{ .Site.Title }}</a>:~#
               {{ range $index, $element := split $url "/" }}{{ $.Scratch.Add "path" $element }}{{ if ne $element "" }}<a>{{ . }}</a>/{{ $.Scratch.Add "path" "/" }}{{ end }}{{ end }}</div></header>
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
               <li><a href="http://localhost:1313/projects/" typeof="ListItem">projects/</a></li>
-              <li><a href="http://localhost:1313/ctfs/" typeof="ListItem">CTFs/</a></li>
+              
               <li><a href="http://localhost:1313/experiences/" typeof="ListItem">experiences/</a></li>
-              <li><a href="http://localhost:1313/certifications/" typeof="ListItem">certifications/</a></li>
+              <li><a href="http://localhost:1313/ctfs/" typeof="ListItem">ctf/</a></li>
               <li><a href="http://localhost:1313/blogs/" typeof="ListItem">blogs/</a></li>
+              <li><a href="http://localhost:1313/certifications/" typeof="ListItem">certifications/</a></li>
+              
               <li><a href="http://localhost:1313/contact/" typeof="ListItem">contact/</a></li>
             </ul>
           </nav>

@@ -1,20 +1,24 @@
 ---
-title: "About"
+title: ""
 date: 2023-05-07T13:11:57+05:30
 ---
+
+
 
 <center><img src="https://lh3.googleusercontent.com/pw/AIL4fc9roB195nVJQlTOelIDWWYoqUFz-7MPWv0Kca4voAwPB6vKQu7sO48qu6fu7TJonzSSbFOE5BIEvNoK8ZQNO0RwJzNJ6SXsWQSYPqqAU5ocRR4x7sLg0KUVhG7i3hC81Pb8f-DQvG15cq8vL-dQRbXa=w420-h420-s-no?authuser=1" style="width: 22%;"></center>
 
 
-Meet <a>Vasanth Vanan</a> (@vasanth_vanan), a cybersecurity ethusiast who has transitioned from software development to penetration testing. With a strong foundation of two years in software development and two years of both professional and hands-on experience in penetration testing, Vasanth possesses a blend of technical expertise. 
 
-In addition to a Bachelor’s degree in Information Technology at <a href="https://www.tce.edu" target="_blank">Thiagarajar College of Engineering </a>(Anna University), Vasanth is now commencing on a new journey as an graduate student specializing in cybersecurity at the <a href="https://umd.edu" target="_blank">University of Maryland, College Park</a>. 
 
-During his leisure, he involves himself in attending conferences, networking with local chapters, and exploring vulnerable systems. Currently seeking opportunities in the IT corridor, he is keen to contribute his skills in roles such as <a>Penetration Testing</a>, <a>Security Analyst</a>, and <a>Red Teaming</a>.
+<center><span style="font-size:50px;color:#f5897f;font-family:MyFont;">Meet Vasanth Vanan</span><br><br><br>
+
+**CybSec Graduate Student | Penetration Tester | Software Developer** 
+
+Welcome to my Space. I often go by <a id="nameContainer"></a></center>
 
 <br>
 <center>
--- Find him here --
+<span style="color:grey;">-- Find me more on --</span>
 <br><br>
 
 <p><a href="https://tryhackme.com/p/vasanth.vanan" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc-fjnCUqtvqeynh7FkHFSxPcQzcV-Nkz3g3TEhenubD_jXzbApCsoaAc11g0QPoIGsuC6ldiDkDEiQAo06Z8Wos23Q3OGgZpu2HxqV0y19Toqe6c7ZdOPj_HDSTXB0pa9_HOjqU9Kh45lodv3d5JRxQ=w803-h804-s-no" alt="TryHackMe" style="width: 3.6%;"></a>&nbsp;&nbsp;
@@ -25,8 +29,49 @@ During his leisure, he involves himself in attending conferences, networking wit
    <a href="https://www.instagram.com/vasanth_vanan/" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc9kCtVPrnw7lrmLO7DePuq0sQxOf6NHMkt186r576eZcu3PFEBWVhgxun0mdne_MFxvYs-G-odJg7q_MjAgrXv7TFUnVvuRJ5JVx9Vr8Yq3Tw2_DdbU1PFlj3xdswWqhKGVuJFwscSCWUuISquhoDSE=w803-h804-s-no" alt="Instagram" style="width: 3.6%;"></a>
    </center>
 
+<script>
+  const names = ["vasanth_vanan", "vasanth.vanan", "vasanth__vanan", "VasanthVanan", "vasanthavanan", "busterbayliss8"];
+let currentIndex = 0;
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function displayNames() {
+  shuffleArray(names);
+
+  const nameContainer = document.getElementById("nameContainer");
+  nameContainer.innerHTML = '';
+
+  const nameElement = document.createElement("div");
+  nameElement.classList.add("name");
+  nameElement.textContent = `${names[0]}`;
+  nameContainer.appendChild(nameElement);
+
+  names = names.slice(1).concat(names[0]);
+}
+
+setInterval(displayNames, 1100);
+</script>
 
 <style>
+
+@font-face {
+  font-family: 'MyFont';
+  src: url('/Amoitar.ttf') format('truetype');
+}
+
+@keyframes flicker {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
     span{
     font-size:15px;
 }
