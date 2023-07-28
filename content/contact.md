@@ -7,7 +7,7 @@ date: 2023-05-07T14:19:56+05:30
 <br><br>
 
 <div style="text-align:left">
-    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-ELlX34FDNvVOiZtxym-29dqBr8v861Pr5fvuCRZrLMjAkmjwiZTRARaxQzTdftoOcCdki1aJqhFjcGdOu75yhIlf0ByYeoWqRLDGG-rWK7hZg27eAQCTUlHZECWfGamT6yFTvSF7x9gGeiy8Md85g=w420-h420-s-no?authuser=1" alt="Welcome Image" style="float:left; width: 37%; margin-left: 10px;"/>
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-ELlX34FDNvVOiZtxym-29dqBr8v861Pr5fvuCRZrLMjAkmjwiZTRARaxQzTdftoOcCdki1aJqhFjcGdOu75yhIlf0ByYeoWqRLDGG-rWK7hZg27eAQCTUlHZECWfGamT6yFTvSF7x9gGeiy8Md85g=w420-h420-s-no?authuser=1" alt="Welcome Image" style="float:left; width: 37%; margin-left: 125px;"/>
 </div>
 
 <br><br>

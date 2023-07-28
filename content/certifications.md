@@ -12,7 +12,6 @@ date: 2023-05-07T14:18:54+05:30
 <img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc-PnH0rK_vpigdCeyvCaV0tVfPfVvbgh95R5a3LSAh5SwAKI8oyRcBAyDe4wEPBjn3cy-4XKTrGPfUz8zOHxOdXkkxTpXBkLs6mrDVEJZ6a91g3ivIIgmceameHjdlv68B_Hg9qEnrkeVrIxcJf1NcR=w636-h650-s-no"  style="width: 18%;">&nbsp;
 <img src="https://lh3.googleusercontent.com/pw/AIL4fc80ykUGxMrEuu2XIxNU6MRKpfTNxdm2tBoLVdsnjucy5Eciy63ss8BIYUIc_yqltHIEIx44lAKKZwWADsg1nAO5yqDO-4e16zeOYtPLq4TSEzJ7dFAeMia4-LivPvDtNb1RhYNpuCgPlFzgzqxp7o_x=w954-h1034-s-no"  style="width: 18%;">&nbsp;
 
----
 * CompTIA Network+ (verify: <a>Q85MJ88F734119GZ</a>) <br>
 
 * CompTIA Security+ (verify: <a>QGSWZKZP0DFQ19G3</a>) <br>

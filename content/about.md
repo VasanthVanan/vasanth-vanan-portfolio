@@ -34,11 +34,23 @@ Welcome to my Space. I often go by <a id="nameContainer"></a></center>
 let currentIndex = 0;
 
 function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
+  let currentIndex = array.length;
+  let temporaryValue, randomIndex;
+
+  while (currentIndex !== 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  if (array[array.length - 1] === array[0]) {
+    shuffleArray(array);
   }
 }
+
 
 function displayNames() {
   shuffleArray(names);
@@ -48,7 +60,7 @@ function displayNames() {
 
   const nameElement = document.createElement("div");
   nameElement.classList.add("name");
-  nameElement.textContent = `${names[0]}`;
+  nameElement.textContent = `(${names[0]})`;
   nameContainer.appendChild(nameElement);
 
   names = names.slice(1).concat(names[0]);
