@@ -8,9 +8,9 @@ date: 2023-05-07T14:19:03+05:30
 <div class="card">
 <h3 class="title">Phase 1: TryHackMe (Beginner Friendly)
 </h3>
-<div class="bar" style="width: 365px;">
-    <div class="emptybar"></div>
-    <div class="filledbar"></div>
+<div class="bar" style="width: 1365px;">
+    <div class="emptybar" style="width: 365px;"></div>
+    <div class="filledbar" style="width: 365px;"></div>
     <div class="description">
      I started my CTF journey on <a href="https://tryhackme.com/p/vasanth.vanan" target="_blank">TryHackMe</a> and completed various rooms. Highly recommend it for beginners. <br>
  Check out my blog for detailed write-ups on different rooms on <a href="https://vasanthvanan.github.io/tryhackme-writeups/" target="_blank">vasanthvanan.github.io/tryhackme-writeups</a><br>
@@ -44,10 +44,6 @@ date: 2023-05-07T14:19:03+05:30
 .container script {
   margin-top: 105px; 
 }
-
-</style>
-
-<style>
 
 i{
     color: #777;

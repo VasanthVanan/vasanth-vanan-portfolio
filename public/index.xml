@@ -7,21 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Professional Experiences</title>
+      <link>http://example.org/experiences/</link>
+      <pubDate>Sun, 23 Jul 2023 01:10:35 +0530</pubDate>
+      
+      <guid>http://example.org/experiences/</guid>
+      <description>(IBM India Private Ltd.) Software Developer | Jan 2020 - Nov 2021 (~2 Years) - Full Stack Development with skillsets: Angular, Laravel, Spark, Scala, Git, Python - Facilitated to onboard Secret Server for CCA module through cloud - Implemented Authentication and Authorisation feature in CUST-RI (Scala service) - Contributed to Test Driven Development (TDD) on achieving 80% code coverages Skillset: Software Development | Agile Methodologies | Problem Solving (Safer Internet Project) Security Analyst | Nov 2022 - Jun 2023 (8 Months) - Produced professional audit reports and documentation with standard templates.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://example.org/projects/</link>
       <pubDate>Sun, 07 May 2023 18:47:43 +0530</pubDate>
       
       <guid>http://example.org/projects/</guid>
-      <description></description>
+      <description>Data Model Standardisation using Blockchain This project focused on a smart Hyperledger Fabric-based blockchain network ensuring data model integrity across FMS modules (IBM-SIS) with attribute rules, facilitating consistent and valid database table structures.
+Tags: hyperledger, rest-api, data-integrity ZeroHunger - Ethereum Blockchain (github) The main goal of this project is to reduce food waste, promote sustainable food systems, distribute food to the needy, and enhance cashless transfers using decentralised blockchain technology.</description>
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Feel free to reach out</title>
       <link>http://example.org/contact/</link>
       <pubDate>Sun, 07 May 2023 14:19:56 +0530</pubDate>
       
       <guid>http://example.org/contact/</guid>
-      <description> Linkedin: linkedin@vasanthavanan Twitter: twitter@vasanth__vanan Instagram: instagram@vasanth_vanan Email: cr34u6rupg@pomail.net </description>
+      <description>Linkedin: linkedin@vasanthavanan Twitter: twitter@vasanth__vanan Instagram: instagram@vasanth_vanan Discord: discord@vasanth_vanan Email: cr34u6rupg@pomail.net Support: buymecoffee@vasanth_vanan</description>
     </item>
     
     <item>
@@ -39,7 +49,9 @@
       <pubDate>Sun, 07 May 2023 14:19:03 +0530</pubDate>
       
       <guid>http://example.org/ctfs/</guid>
-      <description></description>
+      <description>
+Phase 1: TryHackMe (Beginner Friendly) I started my CTF journey on TryHackMe and completed various rooms. Highly recommend it for beginners. Check out my blog for detailed write-ups on different rooms on vasanthvanan.github.io/tryhackme-writeups
+Currently ranked in the top 1% of the community. &amp;nbsp;&amp;nbsp; </description>
     </item>
     
     <item>
@@ -48,8 +60,7 @@
       <pubDate>Sun, 07 May 2023 14:18:54 +0530</pubDate>
       
       <guid>http://example.org/certifications/</guid>
-      <description>
-Image Source: TryHackMe </description>
+      <description>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; CompTIA Network+ (verify: Q85MJ88F734119GZ) CompTIA Security+ (verify: QGSWZKZP0DFQ19G3) eLearnSecurity Junior Penetration Tester (eJPT) (verify: 6119394) Certified Ethical Hacker (CEH) (verify: ECC1982743650) Offensive Security Certified Professional (OSCP) (for the future..)</description>
     </item>
     
     <item>
@@ -58,21 +69,23 @@ Image Source: TryHackMe </description>
       <pubDate>Sun, 07 May 2023 14:18:47 +0530</pubDate>
       
       <guid>http://example.org/blogs/</guid>
-      <description>As an avid reader and writer on Medium.com, I dedicate ample time exploring latest cybersecurity trends, with a focus on penetration testing. You can find my blog posts on vasanthavanan.medium.com Here are few blogs and their corresponding reach:
-SS7 — The Deadliest Attack, February 13, 2019
-Inspecting — KrØØk Vulnerability, March 26, 2020
-Ignite: TryHackMe Walkthrough, January 1, 2023
-Thoughts &amp; Notions (Instagram)
-&amp;ldquo;Visualisation is more powerful than textual form&amp;rdquo; this quote has been my guiding principle throughout my academic and professional journey.</description>
+      <description>As an avid reader and writer on Medium.com, I dedicate ample time exploring latest cybersecurity trends, with a focus on penetration testing. You can find my blog posts on vasanthavanan.medium.com Here are a few blog articles:
+Encryption : The Art of Cryptography, (December 11, 2017)
+SS7 — The Deadliest Attack, (February 13, 2019)
+Inspecting — KrØØk Vulnerability, (March 26, 2020)
+Ignite: TryHackMe Walkthrough, (January 1, 2023)
+Thoughts &amp; Notions (Instagram)</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://example.org/about/</link>
       <pubDate>Sun, 07 May 2023 13:11:57 +0530</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description> </description>
+      <description> Meet Vasanth Vanan
+CybSec Graduate Student | Penetration Tester | Software Developer
+Welcome to my Space. I often go by -- Find me more on -- &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; </description>
     </item>
     
   </channel>

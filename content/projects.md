@@ -40,7 +40,7 @@ date: 2023-05-07T18:47:43+05:30
   
 <div class="card">
 <h3 class="title">AR-Bots using Augmented Reality</h3>
-<div class="bar" style="width: 415px;">
+<div class="bar" style="width: 300px;">
     <div class="emptybar"></div>
     <div class="filledbar"></div>
     <div class="description">
