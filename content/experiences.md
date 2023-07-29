@@ -34,8 +34,8 @@ date: 2023-07-23T01:10:35+05:30
     <div class="emptybar"></div>
     <div class="filledbar"></div>
     <div class="description">
-    <i>-</i> Produced professional audit reports and documentation with standard templates. <br>
-    <i>-</i> Applied penetration testing skills to address vulnerabilities and completed related training modules. <br>
+    <i>-</i> Produced professional audit reports and documentation with SIP templates. <br>
+    <i>-</i> Applied penetration testing skills to address vulnerabilities and completed learning modules. <br>
     <i>-</i> Conducted extensive OSINT investigations using various social engineering methodologies. <br>
     </div>
     <div class="projecttags"><b>Skillset:</b> <a>Penetration Testing</a> | <a>Vulnerability Assessment</a> | <a>Scripting</a> </div>
