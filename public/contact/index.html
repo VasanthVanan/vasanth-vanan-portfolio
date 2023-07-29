@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>vasanth-vanan/contact/</title>
+    <title>Vasanth Vanan - Portfolio</title>
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -43,7 +43,6 @@
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
               <li><a href="https://vasanthavanan.in/projects/" typeof="ListItem">projects/</a></li>
-              
               <li><a href="https://vasanthavanan.in/experiences/" typeof="ListItem">experiences/</a></li>
               <li><a href="https://vasanthavanan.in/ctfs/" typeof="ListItem">ctf/</a></li>
               <li><a href="https://vasanthavanan.in/blogs/" typeof="ListItem">blogs/</a></li>
@@ -54,7 +53,7 @@
           </nav>
         </div>
     </div>
-
+    <div class="left-align-text" style="text-align: left;padding-left: 177px;" id="conditionalElement"><a href="https://vasanthavanan.in/" typeof="ListItem">⬅ home/</a></div>
     <div class="container animated fadeInUp" >
         
 <h1>Feel free to reach out</h1>
@@ -75,3 +74,19 @@
     </div>
   </body>
 </html>
+
+<script>
+  
+  const currentURL = window.location.href;
+
+  
+  const excludedURL = 'https://vasanthavanan.in/about/';
+
+  
+  const conditionalElement = document.getElementById('conditionalElement');
+
+  
+  if (currentURL === excludedURL) {
+    conditionalElement.style.display = 'none'; 
+  }
+</script>

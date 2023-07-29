@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ .Site.Title }}{{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
+    <title>Vasanth Vanan - Portfolio</title>
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -44,7 +44,6 @@
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
               <li><a href="https://vasanthavanan.in/projects/" typeof="ListItem">projects/</a></li>
-              
               <li><a href="https://vasanthavanan.in/experiences/" typeof="ListItem">experiences/</a></li>
               <li><a href="https://vasanthavanan.in/ctfs/" typeof="ListItem">ctf/</a></li>
               <li><a href="https://vasanthavanan.in/blogs/" typeof="ListItem">blogs/</a></li>
@@ -55,7 +54,7 @@
           </nav>
         </div>
     </div>
-
+    <div class="left-align-text" style="text-align: left;padding-left: 177px;" id="conditionalElement"><a href="https://vasanthavanan.in/" typeof="ListItem">⬅ home/</a></div>
     <div class="container animated fadeInUp" >
         {{ block "main" . }}
         {{ end }}
@@ -63,3 +62,19 @@
     </div>
   </body>
 </html>
+
+<script>
+  // Get the current URL of the page
+  const currentURL = window.location.href;
+
+  // Define the URL of the page you want to exclude (in this case, "website.com/about")
+  const excludedURL = 'https://vasanthavanan.in/about/';
+
+  // Get a reference to the element you want to conditionally hide
+  const conditionalElement = document.getElementById('conditionalElement');
+
+  // Check if the current URL matches the excluded URL
+  if (currentURL === excludedURL) {
+    conditionalElement.style.display = 'none'; // Hide the element.
+  }
+</script>
