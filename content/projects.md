@@ -3,7 +3,6 @@ title: "Projects"
 date: 2023-05-07T18:47:43+05:30
 ---
 
-<br>
 
 <div class="card">
 <h3 class="title">Data Model Standardisation using Blockchain
