@@ -39,22 +39,22 @@
             <div class="logo terminal-prompt">
               {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
               {{ $.Scratch.Add "path" .Site.BaseURL }}
-              <a href="{{ .Site.BaseURL }}" class="no-style {{ with .Site.Params.TitleCutting }}site-name{{ end }}">{{ .Site.Title }}</a>:~#
+              <a class="no-style {{ with .Site.Params.TitleCutting }}site-name{{ end }}">{{ .Site.Title }}</a>:~#
               {{ range $index, $element := split $url "/" }}{{ $.Scratch.Add "path" $element }}{{ if ne $element "" }}<a>{{ . }}</a>/{{ $.Scratch.Add "path" "/" }}{{ end }}{{ end }}</div></header>
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
-              <li><a href="https://vasanthavanan.in/projects/" typeof="ListItem">projects/</a></li>
-              <li><a href="https://vasanthavanan.in/experiences/" typeof="ListItem">experiences/</a></li>
-              <li><a href="https://vasanthavanan.in/ctfs/" typeof="ListItem">ctf/</a></li>
-              <li><a href="https://vasanthavanan.in/blogs/" typeof="ListItem">blogs/</a></li>
-              <li><a href="https://vasanthavanan.in/certifications/" typeof="ListItem">certifications/</a></li>
+              <li><a href="{{ .Site.BaseURL }}projects/" typeof="ListItem">projects/</a></li>
+              <li><a href="{{ .Site.BaseURL }}experiences/" typeof="ListItem">experiences/</a></li>
+              <li><a href="{{ .Site.BaseURL }}ctfs/" typeof="ListItem">ctf/</a></li>
+              <li><a href="{{ .Site.BaseURL }}blogs/" typeof="ListItem">blogs/</a></li>
+              <li><a href="{{ .Site.BaseURL }}certifications/" typeof="ListItem">certifications/</a></li>
               
-              <li><a href="https://vasanthavanan.in/contact/" typeof="ListItem">contact/</a></li>
+              <li><a href="{{ .Site.BaseURL }}contact/" typeof="ListItem">contact/</a></li>
             </ul>
           </nav>
         </div>
     </div>
-    <div class="left-align-text" style="text-align: left;padding-left: 177px;" id="conditionalElement"><a href="https://vasanthavanan.in/" typeof="ListItem">⬅ home/</a></div>
+    <div class="left-align-text" style="text-align: left;padding-left: 177px;" id="conditionalElement"><a href="{{ .Site.BaseURL }}" typeof="ListItem">⬅ home/</a></div>
     <div class="container animated fadeInUp" >
         {{ block "main" . }}
         {{ end }}
@@ -64,17 +64,13 @@
 </html>
 
 <script>
-  // Get the current URL of the page
   const currentURL = window.location.href;
 
-  // Define the URL of the page you want to exclude (in this case, "website.com/about")
-  const excludedURL = 'https://vasanthavanan.in/about/';
-
-  // Get a reference to the element you want to conditionally hide
+  const excludedURL = '{{ .Site.BaseURL }}about/';
+  const excludedURL2 = '{{ .Site.BaseURL }}';
   const conditionalElement = document.getElementById('conditionalElement');
 
-  // Check if the current URL matches the excluded URL
-  if (currentURL === excludedURL) {
+  if (currentURL === excludedURL || currentURL.replace('/', '') === excludedURL2) {
     conditionalElement.style.display = 'none'; // Hide the element.
   }
 </script>

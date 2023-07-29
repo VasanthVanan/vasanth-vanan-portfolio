@@ -1,4 +1,5 @@
 baseURL = 'https://vasanthavanan.in/'
+#baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'vasanth-vanan'
 theme = "hugo-theme-console"

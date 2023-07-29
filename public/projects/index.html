@@ -39,7 +39,7 @@ Tags: hyperledger, rest-api, data-integrity ZeroHunger - Ethereum Blockchain (gi
             <div class="logo terminal-prompt">
               
               
-              <a href="https://vasanthavanan.in/" class="no-style ">vasanth-vanan</a>:~#
+              <a class="no-style ">vasanth-vanan</a>:~#
               <a>projects</a>/</div></header>
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
@@ -219,17 +219,13 @@ i{
 </html>
 
 <script>
-  
   const currentURL = window.location.href;
 
-  
-  const excludedURL = 'https://vasanthavanan.in/about/';
-
-  
+  const excludedURL = 'https:\/\/vasanthavanan.in\/about/';
+  const excludedURL2 = 'https:\/\/vasanthavanan.in\/';
   const conditionalElement = document.getElementById('conditionalElement');
 
-  
-  if (currentURL === excludedURL) {
+  if (currentURL === excludedURL || currentURL.replace('/', '') === excludedURL2) {
     conditionalElement.style.display = 'none'; 
   }
 </script>
