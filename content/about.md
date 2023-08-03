@@ -14,7 +14,7 @@ date: 2023-05-07T13:11:57+05:30
 
 **CybSec Graduate Student | Penetration Tester | Software Developer** 
 
-Welcome to my Space. I often go by <a id="nameContainer"></a></center>
+I enjoy mimicking real world attackers and I often go by <a id="nameContainer"></a></center>
 
 <br>
 <center>
