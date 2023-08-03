@@ -31,8 +31,8 @@ I enjoy mimicking real world attackers and I often go by <a id="nameContainer"><
 
 <script>
   const names = ["vasanth_vanan", "vasanth.vanan", "vasanth__vanan", "VasanthVanan", "vasanthavanan", "busterbayliss8"];
-  const appKey = Netlify.env.PO_APP_KEY;
-  const userKey = Netlify.env.PO_USER_KEY;
+  const appKey = process.env.PO_APP_KEY;
+  const userKey = process.env.PO_USER_KEY;
 let currentIndex = 0;
 
 function shuffleArray(array) {
