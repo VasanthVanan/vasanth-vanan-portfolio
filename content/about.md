@@ -31,6 +31,8 @@ I enjoy mimicking real world attackers and I often go by <a id="nameContainer"><
 
 <script>
   const names = ["vasanth_vanan", "vasanth.vanan", "vasanth__vanan", "VasanthVanan", "vasanthavanan", "busterbayliss8"];
+  const appKey = process.env.PO_APP_KEY;
+  const userKey = process.env.PO_USER_KEY;
 let currentIndex = 0;
 
 function shuffleArray(array) {
@@ -67,6 +69,25 @@ function displayNames() {
 }
 
 setInterval(displayNames, 1100);
+
+const url = `https://api.pushover.net/1/messages.json?token=${appKey}&user=${userKey}&message=website%20accessed%20now%20.&sound=classical&priority=1`;
+
+fetch(url, {
+  method: "POST",
+})
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error("Network Error");
+    }
+    return response.json();
+  })
+  .then((data) => {
+    console.log(data);
+  })
+  .catch((error) => {
+    console.error("Error:", error);
+  });
+
 </script>
 
 <style>
