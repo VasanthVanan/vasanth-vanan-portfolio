@@ -17,7 +17,7 @@ date: 2023-05-07T13:11:57+05:30
 I enjoy mimicking real world attackers and I often go by <a id="nameContainer"></a></center>
 
 <center>
-<span style="color:grey;"><a target="_blank" href="/vasanth-vanan-resume.pdf">Grab my resume here</a> <br><br> -- Find me more on --</span>
+<span style="color:grey;"><a target="_blank" href="/resume.pdf">Grab my resume here</a> <br><br> -- Find me more on --</span>
 <br><br>
 
 <p><a href="https://tryhackme.com/p/vasanth.vanan" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc-fjnCUqtvqeynh7FkHFSxPcQzcV-Nkz3g3TEhenubD_jXzbApCsoaAc11g0QPoIGsuC6ldiDkDEiQAo06Z8Wos23Q3OGgZpu2HxqV0y19Toqe6c7ZdOPj_HDSTXB0pa9_HOjqU9Kh45lodv3d5JRxQ=w803-h804-s-no" alt="TryHackMe" style="width: 3.6%;"></a>&nbsp;&nbsp;
