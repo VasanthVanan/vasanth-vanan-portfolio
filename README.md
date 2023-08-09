@@ -12,5 +12,6 @@ Fonts used: Twice Writing
 
 Creative License:<br>
 - <a target="_blank" href="https://icons8.com/icon/n9d0Hm43JCPK/link">Link</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- [Favicon](https://www.needpix.com/photo/175529/shield-security-protection-logo-shadow-shine-purple-button-free-vector-graphics) by needpix.com
 - Carousel Image: [CodePen](https://codepen.io/william-goldsworthy/pen/JzVajj)
 - Certification Image Source: [TryHackMe](https://tryhackme.com)
