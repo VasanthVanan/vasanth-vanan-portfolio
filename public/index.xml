@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://vasanthavanan.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Conferences</title>
+      <link>https://vasanthavanan.in/conferences/</link>
+      <pubDate>Sun, 10 Sep 2023 14:19:03 +0530</pubDate>
+      
+      <guid>https://vasanthavanan.in/conferences/</guid>
+      <description>BSidesNoVA, Northern Virginia [Sep 9, 2023] - attended &#34;Defending Against API Attacks&#34; by Hitesh B and learnt about OWASP&#39;s top 10 API threats. - participated in the fun class of &#34;Initial Actions on Active Directory Targets&#34; by Tinker Secor and learnt active directory dumps, SYSVOL access and and discovering hidden remnants.
+- Networked with leading cybersecurity professionals and experts from various companies. - won a book, &#39;The Art of Cyberwarfare&#39; for collecting all the stamps.</description>
+    </item>
+    
+    <item>
       <title>Professional Experiences</title>
       <link>https://vasanthavanan.in/experiences/</link>
       <pubDate>Sun, 23 Jul 2023 01:10:35 +0530</pubDate>
