@@ -4,6 +4,35 @@ date: 2023-09-10T14:19:03+05:30
 ---
 
 <div class="card">
+<h3 class="title">OWASP Global AppSec, Washington DC [Oct 30-31, 2023]
+</h3>
+<div class="bar" style="">
+    <div class="emptybar" style="width: 410px;"></div>
+    <div class="filledbar" ></div>
+    <div class="description">
+        - explored Linux memory vulnerabilities with Ofri Ouzan, covering outdated and latest techniques, binary hardening, and real-world examples. <br>
+        - learnt to design secure cloud architecture with Nathan Case, focusing on shared best practices and practical implementation.<br>
+        - discovered the benefits of client-side application layer encryption with Wias Issa for securing cloud data. <br>
+    </div>
+</div>
+</div>
+
+<br>
+
+
+<img id="logo" src="https://lh3.googleusercontent.com/pw/ADCreHdnmxnglzDl_eErI1JgNv3PZO-G2GtAceB5V8Vr33Mzy-vQJcyJcQdZW8tFIojRDoyUHa-zO1n3ZH47yunw0K-B9GvkR2w47VoEpx5GN9-QllIHhTfKqWTbygygB-wqIdKlgMTIpf1Zmb1FGRumZmLA=w636-h1130-s-no"  style="width: 10%;">  
+
+<img id="logo" src="https://lh3.googleusercontent.com/pw/ADCreHe-kxo57LsmPtwf9gm6vwY3mmY5ieVQqIHNrDlvTfCe7JsZdqb8enMyMFe-ER9pVrMuVNFDmHiZxf415Innz7OiFsra7CGu6X-njhONoqkQsw3RKUQwv0LOPUkGtBniNJM0S18TWn7jcIsJIaI00Fwa=w848-h1130-s-no"  style="width: 10%;">
+
+<img id="logo" src="https://lh3.googleusercontent.com/pw/ADCreHcsM8NqoOs2cEbuAkrWNU0znKaoWMEUkWfwOyGSb0adYm1kobx6jc1v0u-ggbFWDBFNdd1LN0K9T-mzqQ5FAXgePPihRIpuZDbrQlqTFJU6gQRaNYrKRCY_4kUlWhW-DtqF_lnJi_o4aAHflqXAy4_L=w848-h1130-s-no"  style="width: 10%;">
+
+<img id="logo" src="https://lh3.googleusercontent.com/pw/ADCreHfat8nrcv174IDkgAp8Nk4Ns9gOvRgrSdh8PKM6PtLzobH5sj0UE9g8Dp1dpJ70c62igLh6cigx0qTOTwq_P0wq7NPLwGM6JiOZBemK4z_-_d7-_VOc-sZ7U74duOd8W2Y0MCaK8vT3ADEDx9dGU4lQ=w636-h1130-s-no"  style="width: 10%;">
+
+<br>
+
+---
+
+<div class="card">
 <h3 class="title">BSidesNoVA, Northern Virginia [Sep 9, 2023]
 </h3>
 <div class="bar" style="">
@@ -12,7 +41,7 @@ date: 2023-09-10T14:19:03+05:30
     <div class="description">
         - attended "Defending Against API Attacks" by Hitesh B and learnt about OWASP's top 10 API threats. <br>
         - participated in the fun class of "Initial Actions on Active Directory Targets" by Tinker Secor and <br> learnt active directory dumps, SYSVOL access and and discovering hidden remnants.<br>
-        - Networked with leading cybersecurity professionals and experts from various companies. <br>
+        - networked with leading cybersecurity professionals and experts from various companies. <br>
         - won a book, 'The Art of Cyberwarfare' for collecting all the stamps.
     </div>
 </div>
@@ -71,7 +100,7 @@ i{
 .card {
   display: flex;
   height: 150px;
-  width: 1400px;
+  width: 900px;
   
   border-radius: 10px;
   box-shadow: -1rem 0 3rem #000;
