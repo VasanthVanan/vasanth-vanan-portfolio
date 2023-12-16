@@ -3,7 +3,7 @@ title: "Thoughts & Notions (Medium)"
 date: 2023-05-07T14:18:47+05:30
 ---
 
-As an avid reader and writer on <a href="https://medium.com" target="_blank">Medium.com</a>, I dedicate ample time exploring latest cybersecurity trends, with a focus on penetration testing. You can find my blog posts on <a href="https://vasanthavanan.medium.com" target="_blank">vasanthavanan.medium.com</a> <br><br>Here are a few blog articles:
+As an avid reader and writer on <a href="https://medium.com" target="_blank">Medium.com</a>, I dedicate ample time exploring latest cybersecurity trends, with a focus on penetration testing. You can find my blog posts on <a href="https://vasanthavanan.medium.com" target="_blank">vasanthavanan.medium.com</a> Occasionally, I write blogs at <a href="https://systemweakness.com" target="_blank">System Weakness</a> Publication.<br><br>Here are a few blog articles:
 
 -  <a href="https://medium.com/@vasanthavanan/encryption-the-art-of-cryptography-7bd98b8fb978" target="_blank">Encryption : The Art of Cryptography</a>, <small>(December 11, 2017)</small><br>
 
@@ -13,7 +13,7 @@ As an avid reader and writer on <a href="https://medium.com" target="_blank">Med
 - <a href="https://vasanthavanan.medium.com/inspecting-krøøk-vulnerability-af70ff197488" target="_blank">Inspecting — KrØØk Vulnerability</a>, <small>(March 26, 2020)</small><br>
 
 
-- <a href="https://systemweakness.com/tryhackme-ignite-walkthrough-7beb5021cb46?source=user_profile---------1----------------------------" target="_blank">Ignite: TryHackMe Walkthrough</a>, <small>(January 1, 2023)</small><br>
+- <a href="https://systemweakness.com/injecting-0x113-format-string-binary-exploitation-f2abfea25a76" target="_blank">Injecting 0x113 — Format String Binary Exploitation</a>, <small>(December 15, 2023)</small><br>
 
 ---
 
