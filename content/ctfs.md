@@ -6,10 +6,10 @@ date: 2023-05-07T14:19:03+05:30
 <br>
 
 <div class="card">
-<h3 class="title">Phase 1: TryHackMe (Beginner Friendly)
+<h3 class="title">Phase 1: TryHackMe
 </h3>
 <div class="bar" style="">
-    <div class="emptybar" style="width: 365px;"></div>
+    <div class="emptybar" style="width: 174px;"></div>
     <div class="filledbar" ></div>
     <div class="description">
      I started my CTF journey on <a href="https://tryhackme.com/p/vasanth.vanan" target="_blank">TryHackMe</a> and completed various rooms. Highly recommend it for beginners. <br>
@@ -28,6 +28,24 @@ date: 2023-05-07T14:19:03+05:30
 ---
 
 
+
+<div class="card">
+<h3 class="title">Phase 2: PicoCTF
+</h3>
+<div class="bar" style="">
+    <div class="emptybar" style="width: 155px;"></div>
+    <div class="filledbar" ></div>
+    <div class="description">
+    Following that, I explored on <a href="https://picoctf.org/index.html" target="_blank"> PicoCTF's PicoGym</a> practice challenges. I dived deep in to binary exploitation, web exploitation, reverse engineering and forensics. View my picoGym scores and solved challenges on <a href="https://play.picoctf.org/users/mvasanth" target="_blank">play.pictoctf.org/users/mvasanth</a><br>
+    </div>
+</div>
+</div>
+
+<br>
+ <div class="container">
+   &nbsp;&nbsp; 
+   <img src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" style="width: 14%;">
+ </div>
 
 <style>
 
@@ -66,7 +84,7 @@ i{
 .card {
   display: flex;
   height: 150px;
-  width: 1400px;
+  width: 1000px;
   
   border-radius: 10px;
   box-shadow: -1rem 0 3rem #000;

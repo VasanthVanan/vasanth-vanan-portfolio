@@ -17,7 +17,7 @@ date: 2023-05-07T13:11:57+05:30
 I enjoy mimicking real world attackers and I often go by <a id="nameContainer"></a></center>
 
 <center>
-<span style="color:grey;"><a target="_blank" href="/vasanthavanan-resume.pdf">Grab my resume here</a> <br><br> -- Find me more on --</span>
+<span style="color:grey;"><a target="_blank" href="/vasanthavanan-resume.pdf" class="hvr-bounce-in">Grab my resume here</a> <br><br> -- Find me more on --</span>
 <br><br>
 
 <p><a href="https://tryhackme.com/p/vasanth.vanan" id="anchor" target="_blank"><img id="logo" src="https://lh3.googleusercontent.com/pw/AIL4fc-fjnCUqtvqeynh7FkHFSxPcQzcV-Nkz3g3TEhenubD_jXzbApCsoaAc11g0QPoIGsuC6ldiDkDEiQAo06Z8Wos23Q3OGgZpu2HxqV0y19Toqe6c7ZdOPj_HDSTXB0pa9_HOjqU9Kh45lodv3d5JRxQ=w803-h804-s-no" alt="TryHackMe" style="width: 3.6%;"></a>&nbsp;&nbsp;
@@ -109,6 +109,20 @@ p {
     }
 }
 
+.hvr-bounce-in {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}
+.hvr-bounce-in:hover, .hvr-bounce-in:focus, .hvr-bounce-in:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 #anchor{
     background-color:#000;
     color: #000;
@@ -116,9 +130,10 @@ p {
 
 #logo {
     transition: transform 0.1s ease-in-out;
-  }
-  
-  #logo:hover {
-    transform: scale(1.3);
-  }
+}
+
+#logo:hover {
+  transform: scale(1.3);
+}
+
 </style>

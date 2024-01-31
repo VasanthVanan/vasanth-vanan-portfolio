@@ -3,6 +3,8 @@ title: "Thoughts & Notions (Medium)"
 date: 2023-05-07T14:18:47+05:30
 ---
 
+<img src="/qr-code.png" style="width:9%" class="corner-image"/>
+
 As an avid reader and writer on <a href="https://medium.com" target="_blank">Medium.com</a>, I dedicate ample time exploring latest cybersecurity trends, with a focus on penetration testing. You can find my blog posts on <a href="https://vasanthavanan.medium.com" target="_blank">vasanthavanan.medium.com</a> Occasionally, I write blogs at <a href="https://systemweakness.com" target="_blank">System Weakness</a> Publication.<br><br>Here are a few blog articles:
 
 -  <a href="https://medium.com/@vasanthavanan/encryption-the-art-of-cryptography-7bd98b8fb978" target="_blank">Encryption : The Art of Cryptography</a>, <small>(December 11, 2017)</small><br>
@@ -70,4 +72,25 @@ p {
   #logo:hover {
     transform: scale(1.14);
   }
+
+.corner-image {
+      position: absolute;
+      top: 0;
+      right: 0;
+      animation: swingAnimation 2.5s infinite alternate ease-in-out;
+      transform-origin: top right;
+      pointer-events: none;
+}
+
+@keyframes swingAnimation {
+      0% {
+        transform: translate(-40%, -15%) rotate(0deg);
+      }
+      50% {
+        transform: translate(-40%, -15%) rotate(-30deg);
+      }
+      100% {
+        transform: translate(-40%, -15%) rotate(0deg);
+      }
+}
 </style>
